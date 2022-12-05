@@ -1,0 +1,1 @@
+Prediction salary for 2 yr experience, 9 test score, 6 interview score is: 45945And prediction salary for  12 yr experience, 10 test score, 10 interview score is: 93489
